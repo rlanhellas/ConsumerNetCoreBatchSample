@@ -24,3 +24,9 @@ Approximately 11 seconds to consume 1million records, without BatchSize set and
 MaxWaitTime in 1 second. 
 
 Look to the TPS: approximately 110K TPS (Transactions Per Seconds).
+
+##### Throughput in Confluent.Cloud
+
+![image](images/throughput.png)
+
+Approximately 519Kb/sec.
